@@ -1,5 +1,5 @@
 echo running python script...
 
-py main.py
+py src\main.py
 
 exit
