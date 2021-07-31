@@ -22,7 +22,7 @@ The config file looks like this:
     }
 }
 ```
-gui-theme: theme of the app (you can find the themes here: https://media.geeksforgeeks.org/wp-content/uploads/20200511200254/f19.jpg
+gui-theme: theme of the app (you can find the themes [here](https://media.geeksforgeeks.org/wp-content/uploads/20200511200254/f19.jpg))
 
 ip: ip to your moonraker instance
 
