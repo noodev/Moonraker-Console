@@ -18,6 +18,7 @@ class configreader():
         else:
             t_f = open(file_name, "a")
             t_f.write(str(default_config_content))
+            t_f.close()
 
 if __name__ != '__main__':
     config_file = configreader()
