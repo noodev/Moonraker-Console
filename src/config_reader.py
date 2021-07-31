@@ -3,8 +3,6 @@ import json, os
 default_config_content = '{ "gui-theme": "Material1", "connection": { "ip": "http://192.168.1.70", "port": 7125 } }'
 
 class configreader():
-    def __init__(self):
-        pass
     def read_file(self, file_name):
         if os.path.exists(file_name):
 
