@@ -5,7 +5,8 @@ includefiles = "config.json"
 
 build_exe_options = {
     "packages": ["os", "sys", "json", "requests", "PySimpleGUI"],
-    "include_files": ["config.json"]
+    "include_files": ["config.json"],
+    "exclude_files": ["tkinter"]
 }
 
 base = None
