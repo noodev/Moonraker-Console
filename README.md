@@ -5,7 +5,7 @@ Simple moonraker console from computer to raspberry pi
 
 # Downloads
 
-please check https://github.com/MrNoob0/Moonraker-Console/releases/
+please check [releases](https://github.com/MrNoob0/Moonraker-Console/releases/)
 
 Windows only supported at the moment
 
