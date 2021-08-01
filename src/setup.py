@@ -14,8 +14,8 @@ if sys.platform == "win32":
 
 setup(
     name = "Moonraker-Console",
-    version = "0.1",
-    description = "My GUI application!",
+    version = "0.2",
+    description = "Moonraker-Console",
     options = {"build_exe": build_exe_options},
     executables = [Executable("__main__.py", base=base, target_name="Moonraker-Console")]
 )
